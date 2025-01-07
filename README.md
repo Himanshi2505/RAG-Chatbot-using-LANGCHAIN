@@ -1,0 +1,1 @@
+Developed a Retrieval Augmented Generation (RAG) chatbot using LangChain and OpenAI's GPT-3.5, integrating vector embeddings with Pinecone DB to enable context-aware responses through efficient similarity search and knowledge retrieval.
